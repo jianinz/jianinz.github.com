@@ -17,18 +17,18 @@ avatar: https://s.gravatar.com/avatar/1ae1d36e1d1b4e4a7342eb1929979a58?s=80
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: jianinz@gmail.com
+  dribbble:
+  github: jianinz
   facebook: 
   flickr: 
-  github: jianinz
-  instagram: jianinz
   linkedin: zhangjianing
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jianinz 
   stackoverflow: users/660394/jianinz # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   weibo: jianinz
+  instagram: jianinz
+  email: jianinz@gmail.com
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
